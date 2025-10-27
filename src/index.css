@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 🌈 Universal Glassmorphism Classes */
+.glass {
+  background: rgba(255, 255, 255, 0.05); /* subtle transparency */
+  backdrop-filter: blur(8px); /* frosted glass blur */
+  -webkit-backdrop-filter: blur(8px); /* Safari support */
+  border: 1px solid rgba(255, 255, 255, 0.1); /* soft border */
+  border-radius: 1rem; /* rounded corners */
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5); /* light shadow for depth */
+  /* padding: 2rem; */
+  transition: all 0.3s ease; /* smooth hover */
+}
+
+.glass-section:hover {
+  background: rgba(255, 255, 255, 0.08); /* slightly brighter on hover */
+  border-color: rgba(255, 255, 255, 0.2);
+}
+/* Soft gradient background animation */
+body {
+  background: linear-gradient(90deg, #115e62 0%, #099b9f 50%, #099b9f 100%);
+  background-size: 400% 400%;
+  /* animation: ambientGlow 20s ease infinite; */
+}
+
+/* Smooth animated motion */
+@keyframes ambientGlow {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: linear-gradient(90deg, #061d1e 0%, #099b9f 50%, #099b9f 100%);
+  opacity: 0.6;
+  background-size: 400% 400%;
+  /* animation: ambientGlow 20s ease infinite; */
+  z-index: -1;
+}

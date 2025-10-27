@@ -1,0 +1,529 @@
+{
+  "name": "Prasanta Bhattacharjee",
+  "role": "Full-Stack Software Developer",
+  "contactEmail": "prasanta.ovi@email.com",
+  "image": "/assets/Profile.jpg",
+  "bio": "I’m a passionate developer focused on building modern, scalable, and elegant full-stack applications.",
+  "about": {
+    "heading": "Turning Ideas Into Reality",
+    "description": "I'm a full-stack developer who loves creating user-focused digital experiences. I combine design thinking and code craftsmanship to bring interactive products to life.",
+    "image": "/assets/about.png"
+  },
+  "services": [
+    {
+      "title": "Web Design",
+      "desc": "Creating visually engaging, modern, and responsive interfaces that balance aesthetics with usability.",
+      "icon": "fa-solid fa-pencil-ruler"
+    },
+    {
+      "title": "Web Development",
+      "desc": "Building scalable, high-performance web applications using React, Flask, Laravel, and MongoDB.",
+      "icon": "fa-solid fa-code"
+    },
+    {
+      "title": "Research & Development",
+      "desc": "Exploring new technologies, optimizing performance, and integrating AI-driven innovations to solve real-world challenges.",
+      "icon": "fa-solid fa-flask"
+    },
+    {
+      "title": "UI/UX Optimization",
+      "desc": "Enhancing user experience through data-driven design, testing, and continuous improvement.",
+      "icon": "fa-solid fa-layer-group"
+    }
+  ],
+  "skills": {
+    "Programming": [
+      {
+        "name": "Python",
+        "icon": "fa-brands fa-python"
+      },
+      {
+        "name": "PHP 8+",
+        "icon": "fa-brands fa-php"
+      },
+      {
+        "name": "C++",
+        "icon": "fa-solid fa-file-code"
+      }
+    ],
+    "Frameworks": [
+      {
+        "name": "Laravel",
+        "icon": "fa-brands fa-laravel"
+      },
+      {
+        "name": "CodeIgniter",
+        "icon": "fa-solid fa-fire"
+      },
+      {
+        "name": "Flask",
+        "icon": "fa-solid fa-flask"
+      },
+      {
+        "name": "React.js",
+        "icon": "fa-brands fa-react"
+      },
+      {
+        "name": "Vue.js",
+        "icon": "fa-brands fa-vuejs"
+      },
+      {
+        "name": "Express.js",
+        "icon": "fa-brands fa-node-js"
+      },
+      {
+        "name": "Node.js (Runtime)",
+        "icon": "fa-brands fa-node-js"
+      }
+    ],
+    "Database": [
+      {
+        "name": "SQL",
+        "icon": "fa-solid fa-database"
+      },
+      {
+        "name": "MySQL",
+        "icon": "fa-solid fa-database"
+      },
+      {
+        "name": "MongoDB",
+        "icon": "fa-solid fa-leaf"
+      },
+      {
+        "name": "MSSQL",
+        "icon": "fa-solid fa-database"
+      },
+      {
+        "name": "SQLite",
+        "icon": "fa-solid fa-database"
+      },
+      {
+        "name": "PostgreSQL",
+        "icon": "fa-solid fa-database "
+      }
+    ],
+    "Machine Learning": [
+      {
+        "name": "Pandas",
+        "icon": "fa-solid fa-chart-line"
+      },
+      {
+        "name": "NumPy",
+        "icon": "fa-solid fa-square-root-variable"
+      },
+      {
+        "name": "scikit-learn",
+        "icon": "fa-solid fa-brain"
+      },
+      {
+        "name": "Deep Neural Network",
+        "icon": "fa-solid fa-network-wired"
+      },
+      {
+        "name": "Clustering",
+        "icon": "fa-solid fa-object-group"
+      }
+    ],
+    "Tools & Platforms": [
+      {
+        "name": "Git / GitHub",
+        "icon": "fa-brands fa-git-alt"
+      },
+      {
+        "name": "Bitbucket",
+        "icon": "fa-brands fa-bitbucket"
+      },
+      {
+        "name": "Slack",
+        "icon": "fa-brands fa-slack"
+      },
+      {
+        "name": "CI/CD",
+        "icon": "fa-solid fa-gear"
+      },
+      {
+        "name": "SQL Server",
+        "icon": "fa-solid fa-database"
+      },
+      {
+        "name": "cPanel",
+        "icon": "fa-solid fa-server"
+      },
+      {
+        "name": "Docker",
+        "icon": "fa-brands fa-docker"
+      },
+      {
+        "name": "AWS",
+        "icon": "fa-brands fa-aws"
+      }
+    ],
+
+    "Web Technologies": [
+      {
+        "name": "HTML5",
+        "icon": "fa-brands fa-html5"
+      },
+      {
+        "name": "CSS3",
+        "icon": "fa-brands fa-css3-alt"
+      },
+      {
+        "name": "Bootstrap",
+        "icon": "fa-brands fa-bootstrap"
+      },
+      {
+        "name": "Tailwind CSS",
+        "icon": "fa-solid fa-wind"
+      },
+      {
+        "name": "jQuery",
+        "icon": "fa-brands fa-js"
+      }
+    ],
+    "UI Design": [
+      {
+        "name": "Figma",
+        "icon": "fa-solid fa-fire"
+      },
+      {
+        "name": "Adobe Photoshop",
+        "icon": "fa-brands fa-git-alt"
+      }
+    ],
+    "Concepts & Practices": [
+      {
+        "name": "RESTful APIs",
+        "icon": "fa-solid fa-network-wired"
+      },
+      {
+        "name": "OOP",
+        "icon": "fa-solid fa-cubes"
+      },
+      {
+        "name": "MVC",
+        "icon": "fa-solid fa-diagram-project"
+      },
+      {
+        "name": "Agile/Scrum",
+        "icon": "fa-solid fa-people-group"
+      },
+      {
+        "name": "Unit Testing",
+        "icon": "fa-solid fa-vial"
+      },
+      {
+        "name": "Design Patterns",
+        "icon": "fa-solid fa-puzzle-piece"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "role": "Graduate Teaching Assistant",
+      "company": "Department of Computer Science & Mathematics, University of Lethbridge",
+      "location": "Lethbridge, Alberta, Canada",
+      "years": "September 2022 – August 2024",
+      "jobType": "Full / Part-Time",
+      "descriptions": [
+        "Evaluated and graded assignments with consistency and accuracy.",
+        "Collaborated with professors to align with course objectives and standards.",
+        "Provided feedback and guidance to students on coursework.",
+        "Clarified complex concepts to support student learning.",
+        "Assisted in maintaining academic integrity and grading fairness."
+      ],
+      "isCurrent": false
+    },
+    {
+      "role": "UI/UX Designer (Self-Initiated Projects)",
+      "company": "Behance",
+      "location": "New York, United States",
+      "years": "January 2020 – December 2023",
+      "jobType": "Freelance / Self-Initiated",
+      "descriptions": [
+        "Designed user-friendly interfaces for web and mobile applications to enhance usability.",
+        "Built interactive prototypes and mockups showcasing modern UI/UX practices.",
+        "Applied design tools including Figma and Adobe Photoshop.",
+        "Published projects and maintained a portfolio on Behance to demonstrate expertise and strengthen design and user experience skills."
+      ],
+      "isCurrent": false
+    },
+    {
+      "role": "Senior Software Developer",
+      "company": "Journeymakerjobs",
+      "location": "Sylhet, Bangladesh",
+      "years": "June 2019 – August 2022",
+      "jobType": "Full-Time",
+      "descriptions": [
+        "Developed and maintained a large-scale job portal platform to improve performance and user experience.",
+        "Built scalable Android application APIs and PHP-based systems with REST API integration.",
+        "Led a developer team by assigning tasks, reviewing code, and ensuring timely sprint delivery.",
+        "Optimized search algorithms and database queries to improve speed and accuracy.",
+        "Improved security by stabilizing legacy code and upgrading authentication with bcrypt and CSRF protection."
+      ],
+      "isCurrent": false
+    },
+    {
+      "role": "Software Developer",
+      "company": "IT Lab Solutions Ltd.",
+      "location": "Sylhet, Bangladesh",
+      "years": "April 2016 – May 2019",
+      "jobType": "Full-Time",
+      "descriptions": [
+        "Developed and led task management and POS systems with a developer team.",
+        "Designed and optimized databases to support inventory, reporting, and user management.",
+        "Resolved performance issues, improving system speed, reliability, and user satisfaction.",
+        "Built advanced POS features for inventory forecasting and financial management.",
+        "Streamlined legacy systems with Composer migration, query optimization, and CSV import automation."
+      ],
+      "isCurrent": false
+    }
+  ],
+  "education": [
+    {
+      "degree": "M.Sc. in Computer Science",
+      "institution": "University of Lethbridge",
+      "location": "Lethbridge, Alberta, Canada",
+      "years": "Awarded February 2025",
+      "description": [
+        "Conducted advanced research in Ensemble Deep Learning Models for Emergency Service Prioritization, applying DBSCAN and K-Means clustering on spatial and non-spatial data streams.",
+        "Developed real-time AI pipelines integrating time series modeling, data stream classification, and spatial analytics to predict severe weather emergency response priorities.",
+        "Published research paper “A Spatial Data Stream Ensemble for Prediction of Emergency Service Priorities” and received Best Paper Award at the 28th International Conference on Network-Based Information Systems (NBiS-2025).",
+        "Applied tools and frameworks including Python, PyTorch, Flask, Pandas, NumPy, and Scikit-learn for model development and deployment.",
+        "Strengthened expertise in Machine Learning, AI, Deep Neural Network, Big Data, and Predictive Analytics while mentoring undergraduate students as a Graduate Teaching Assistant."
+      ]
+    },
+    {
+      "degree": "B.Sc. in Computer Science & Engineering",
+      "institution": "Metroploitan University",
+      "location": "Sylhet, Bangladesh",
+      "years": "Awarded June 2016",
+      "description": [
+        "Focused on Software Development, Algorithms, and System Architecture, laying the foundation for full-stack engineering expertise.",
+        "Designed and developed academic projects using PHP, MySQL, CodeIgniter, and Bootstrap, focusing on performance optimization and secure backend architecture.",
+        "Built and deployed final-year project modules integrating user management, reporting, and database-driven dashboards.",
+        "Completed coursework in Data Structures, Operating Systems, Database Management Systems, Object-Oriented Programming, and Web Application Development."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "AI Job Tracker",
+      "slug": "ai-job-tracker",
+      "description": "An AI-powered platform that analyzes job postings and matches them with uploaded CVs using NLP and OpenAI models.",
+      "image": "/assets/projects/ai-job-tracker.jpg",
+      "tech": ["React", "Flask", "MongoDB", "OpenAI API"],
+      "liveLink": "https://aijobtracker.com",
+      "repoLink": "https://github.com/prasantaovi/ai-job-tracker",
+      "caseStudy": {
+        "overview": "This project automates job search efficiency by using AI to evaluate resume-job compatibility in real-time. Built to save recruiters and job seekers time.",
+        "features": [
+          "AI-driven job match scoring",
+          "Interactive CV parser and preview",
+          "Real-time ATS optimization feedback",
+          "OpenAI + Flask backend integration"
+        ]
+      }
+    },
+    {
+      "title": "Task Manager App",
+      "description": "Full-stack task management system with authentication and REST APIs.",
+      "image": "/assets/project.png",
+      "tags": ["React", "Flask", "PostgreSQL"],
+      "repoLink": "https://github.com/yourname/task-manager"
+    }
+  ],
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/prasanta-bhattacharjee/",
+    "github": "https://github.com/prasanta-bhattacharjee",
+    "behance": "https://www.behance.net/prasantaovi"
+  },
+  "testimonials": [
+    {
+      "quote": "Incredible developer and communicator. Delivered exactly what we needed.",
+      "author": "John Doe, Tech Lead at XYZ"
+    },
+    {
+      "quote": "A pleasure to work with — highly skilled and professional.",
+      "author": "Jane Smith, Product Manager"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "University of Lethbridge Convocation",
+      "category": "Event",
+      "date": "2025-06-15",
+      "description": "Proud moment receiving my M.Sc. degree!",
+      "cover": "/assets/gallery/convocation/cover.JPG",
+      "images": [
+        "/assets/gallery/convocation/1.JPG",
+        "/assets/gallery/convocation/friends.jpg",
+        "/assets/gallery/convocation/family.jpg",
+        "/assets/gallery/convocation/campus.jpg"
+      ]
+    },
+    {
+      "title": "Banff National Park Trip",
+      "category": "Travel",
+      "date": "2025-08-05",
+      "description": "Exploring Lake Louise with friends after convocation.",
+      "cover": "/assets/gallery/banff/cover.jpg",
+      "images": [
+        "/assets/gallery/banff/cover.jpg",
+        "/assets/gallery/banff/lake.jpg",
+        "/assets/gallery/banff/mountain.jpg"
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "slug": "react-flask-fullstack",
+      "title": "Building a Full-Stack App with React & Flask",
+      "summary": "A step-by-step guide to connecting React and Flask efficiently.",
+      "content": "Learn to connect React frontend with Flask backend, manage CORS, and structure APIs.",
+      "category": "Development",
+      "date": "2025-09-20",
+      "views": 542,
+      "smallImage": "/assets/blogs/ai-tools-small.jpg",
+      "largeImage": "/assets/blogs/ai-tools-large.jpg"
+    },
+    {
+      "slug": "deploy-flask-react-render",
+      "title": "Deploying Flask + React on Render",
+      "summary": "How to host your full-stack app on Render for free.",
+      "content": "Full walkthrough of Render deployment setup with GitHub integration.",
+      "category": "Deployment",
+      "date": "2025-08-15",
+      "views": 544,
+      "smallImage": "/assets/blogs/ai-tools-small.jpg",
+      "largeImage": "/assets/blogs/ai-tools-large.jpg"
+    },
+    {
+      "slug": "ai-tools-for-developers",
+      "title": "Top 5 AI Tools Every Developer Should Know",
+      "summary": "Explore tools like GitHub Copilot, ChatGPT, and Tabnine for coding productivity.",
+      "content": "This article explores how AI is transforming software development workflows.",
+      "category": "AI",
+      "date": "2025-07-28",
+      "views": 543,
+      "smallImage": "/assets/blogs/ai-tools-small.jpg",
+      "largeImage": "/assets/blogs/ai-tools-large.jpg"
+    },
+    {
+      "slug": "tailwind-vs-bootstrap",
+      "title": "Tailwind CSS vs Bootstrap — Which Should You Choose?",
+      "summary": "Comparing two of the most popular CSS frameworks for modern web development.",
+      "content": "We evaluate pros, cons, and use-cases of Tailwind CSS and Bootstrap.",
+      "category": "Frontend",
+      "date": "2025-07-10",
+      "views": 542,
+      "smallImage": "/assets/blogs/ai-tools-small.jpg",
+      "largeImage": "/assets/blogs/ai-tools-large.jpg"
+    },
+    {
+      "slug": "optimize-react-performance",
+      "title": "Optimizing React App Performance Like a Pro",
+      "summary": "Practical strategies to reduce re-renders, use memoization, and boost UX.",
+      "content": "Deep dive into React profiling, lazy loading, and code splitting.",
+      "category": "Performance",
+      "date": "2025-06-21",
+      "views": 542,
+      "smallImage": "/assets/blogs/ai-tools-small.jpg",
+      "largeImage": "/assets/blogs/ai-tools-large.jpg"
+    },
+    {
+      "slug": "build-rest-api-flask",
+      "title": "How to Build a REST API with Flask",
+      "summary": "A beginner-friendly tutorial for building scalable REST APIs using Flask.",
+      "content": "Includes code examples for routes, models, and error handling.",
+      "category": "Backend",
+      "date": "2025-06-02",
+      "views": 542,
+      "smallImage": "/assets/blogs/ai-tools-small.jpg",
+      "largeImage": "/assets/blogs/ai-tools-large.jpg"
+    },
+    {
+      "slug": "docker-for-developers",
+      "title": "Getting Started with Docker for Web Developers",
+      "summary": "Simplify app deployment with containers and Docker Compose.",
+      "content": "This article introduces Docker concepts, images, and containers.",
+      "category": "DevOps",
+      "date": "2025-05-15",
+      "views": 542,
+      "smallImage": "/assets/blogs/ai-tools-small.jpg",
+      "largeImage": "/assets/blogs/ai-tools-large.jpg"
+    },
+    {
+      "slug": "python-data-cleaning",
+      "title": "Data Cleaning in Python — A Practical Guide",
+      "summary": "How to use Pandas and NumPy for efficient data preprocessing.",
+      "content": "Learn step-by-step data transformation and handling missing values.",
+      "category": "Data Science",
+      "date": "2025-04-27",
+      "views": 542,
+      "smallImage": "/assets/blogs/ai-tools-small.jpg",
+      "largeImage": "/assets/blogs/ai-tools-large.jpg"
+    },
+    {
+      "slug": "machine-learning-workflow",
+      "title": "End-to-End Machine Learning Workflow",
+      "summary": "A clear roadmap for model development, training, and deployment.",
+      "content": "Understand ML pipeline stages — data prep, model tuning, and evaluation.",
+      "category": "AI",
+      "date": "2025-04-08",
+      "views": 542,
+      "smallImage": "/assets/blogs/ai-tools-small.jpg",
+      "largeImage": "/assets/blogs/ai-tools-large.jpg"
+    },
+    {
+      "slug": "git-branch-strategy",
+      "title": "Understanding Git Branching Strategies",
+      "summary": "Master Git flow, feature branching, and release management.",
+      "content": "This post explains how to keep your codebase stable in multi-developer teams.",
+      "category": "Collaboration",
+      "date": "2025-03-22",
+      "views": 542,
+      "smallImage": "/assets/blogs/ai-tools-small.jpg",
+      "largeImage": "/assets/blogs/ai-tools-large.jpg"
+    },
+    {
+      "slug": "create-portfolio-react",
+      "title": "Creating a Stunning Portfolio in React",
+      "summary": "Step-by-step tutorial on building a developer portfolio with animations.",
+      "content": "Learn component architecture, Tailwind design, and deploy tips.",
+      "category": "Frontend",
+      "date": "2025-03-03",
+      "views": 542,
+      "smallImage": "/assets/blogs/ai-tools-small.jpg",
+      "largeImage": "/assets/blogs/ai-tools-large.jpg"
+    },
+    {
+      "slug": "time-series-forecasting",
+      "title": "Time Series Forecasting with Python",
+      "summary": "A practical approach to forecasting trends using ARIMA and Prophet.",
+      "content": "Explains real-world forecasting models and dataset preprocessing.",
+      "category": "Machine Learning",
+      "date": "2025-02-10",
+      "views": 542,
+      "smallImage": "/assets/blogs/ai-tools-small.jpg",
+      "largeImage": "/assets/blogs/ai-tools-large.jpg"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Introduction to Career Skills in Data Analytics",
+      "year": "June, 2025",
+      "link": "https://www.linkedin.com/learning/certificates/800655096199dea602a1965c9234c7cde923d6722f121a1f72f642da71768c99?trk=share_certificate",
+      "image": "/assets/certification/cert-1.jpeg"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Best Paper Award – NBiS 2025",
+      "year": "September 2025",
+      "link": "",
+      "image": "/assets/awards/award-1.jpeg"
+    }
+  ],
+  "resume": "/assets/PRASANTA-BHATTACHARJEE-RESUME.pdf"
+}
