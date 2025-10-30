@@ -40,10 +40,6 @@
       {
         "name": "PHP 8+",
         "icon": "fa-brands fa-php"
-      },
-      {
-        "name": "C++",
-        "icon": "fa-solid fa-file-code"
       }
     ],
     "Frameworks": [
@@ -231,20 +227,6 @@
         "Provided feedback and guidance to students on coursework.",
         "Clarified complex concepts to support student learning.",
         "Assisted in maintaining academic integrity and grading fairness."
-      ],
-      "isCurrent": false
-    },
-    {
-      "role": "UI/UX Designer (Self-Initiated Projects)",
-      "company": "Behance",
-      "location": "New York, United States",
-      "years": "January 2020 – December 2023",
-      "jobType": "Freelance / Self-Initiated",
-      "descriptions": [
-        "Designed user-friendly interfaces for web and mobile applications to enhance usability.",
-        "Built interactive prototypes and mockups showcasing modern UI/UX practices.",
-        "Applied design tools including Figma and Adobe Photoshop.",
-        "Published projects and maintained a portfolio on Behance to demonstrate expertise and strengthen design and user experience skills."
       ],
       "isCurrent": false
     },
