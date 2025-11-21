@@ -40,6 +40,10 @@
       {
         "name": "PHP 8+",
         "icon": "fa-brands fa-php"
+      },
+      {
+        "name": "JavaScript",
+        "icon": "fa-brands fa-js"
       }
     ],
     "Frameworks": [
